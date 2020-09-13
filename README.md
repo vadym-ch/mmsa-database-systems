@@ -9,6 +9,7 @@
 
 ## KA-86 info
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
+- 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
 ## KA-87 info  
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
