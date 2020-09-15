@@ -8,7 +8,7 @@
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-86 info
-- 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
+- 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/mmsa-database-systems](https://github.com/kan-dim/mmsa-database-systems)
 ## KA-87 info  
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
