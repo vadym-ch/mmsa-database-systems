@@ -9,9 +9,13 @@
 
 ## KA-86 info
 
+
+1 LastName FirsName, *"Title"* [GitHub](https://github.com)
+
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
+
 ## KA-87 info  
 
 - 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
