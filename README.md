@@ -8,13 +8,10 @@
 - Afanasieva Iryna, *"Database Systems Course"* [lrochka/mmsa-database-systems](https://github.com/lrochka/mmsa-database-systems)
 
 ## KA-86 info
-<<<<<<< HEAD
 - 14 Klymenko Kyryl, *"Banking Management System" [Hoceto/BankingManagementSystem]*(https://github.com/Hoceto/BankingManagementSystem)
-||||||| 8412066
-=======
+
 
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
->>>>>>> upstream/master
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
