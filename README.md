@@ -9,9 +9,10 @@
 
 ## KA-86 info
 
-
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
+
+- 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
