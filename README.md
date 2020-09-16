@@ -9,11 +9,18 @@
 
 ## KA-86 info
 
-- 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/mmsa-database-systems](https://github.com/kan-dim/mmsa-database-systems)
-## KA-87 info  
+1 LastName FirsName, *"Title"* [GitHub](https://github.com)
+
+- 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
+- 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
+- 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
+- 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
 
 
 ## KA-87 info  
+
+- 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
 - 9 Marafiievych Mariia, *"Online cosmetics store"* [mariiamarafiievych/Online_cosmetics_store](https://github.com/mariiamarafiievych/Online_cosmetics_store)
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
+- 17 Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
