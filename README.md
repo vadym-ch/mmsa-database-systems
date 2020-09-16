@@ -11,6 +11,8 @@
 
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
+
+- 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/mmsa-database-systems](https://github.com/danylokaniev/mmsa-database-systems)
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
