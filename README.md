@@ -19,6 +19,7 @@
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
+- 24 Tsanko Anastasiya, *"Online confectionery"* [nastytsa/confectionery-shop](https://github.com/nastytsa/confectionery-shop.git)
 
 
 ## KA-87 info  
