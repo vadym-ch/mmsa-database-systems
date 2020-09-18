@@ -15,7 +15,7 @@
 - 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/mmsa-database-systems](https://github.com/danylokaniev/mmsa-database-systems)
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
-- 14 Komaryn Yuliia, *"Swimming Pool"* [YuliiaKomaryn/DatabaseSystems-SwimmingPool](https://github.com/YuliiaKomaryn/DatabaseSystems-SwimmingPool.git)
+- 14 Komaryn Yuliia, *"Swimming Pool"* [YuliiaKomaryn/DatabaseSystems-SwimmingPool](https://github.com/YuliiaKomaryn/DatabaseSystems-SwimmingPool.git) 
 - 14 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
