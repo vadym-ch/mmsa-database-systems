@@ -21,7 +21,9 @@
 - 26 Shudra Ruslan, *"Organization of work on taxi station"* [ShudraRuslan/Taxi-station](https://github.com/ShudraRuslan/Taxi-station)
 
 ## KA-87 info  
+
 - 3 Darialov Andrew, *"Gym"* [DarialovAndrew/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
+- 6 Kadatska Oleksandra, *"Beauty salon"* [Kanada3000/beauty-salon](https://github.com/Kanada3000/beauty-salon)
 - 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
 - 8 Kondratieva Julia, *"Bookcrossing application"* [JuliaKondratieva/data-base](https://github.com/JuliaKondratieva/data-base)
 - 9 Marafiievych Mariia, *"Online cosmetics store"* [mariiamarafiievych/Online_cosmetics_store](https://github.com/mariiamarafiievych/Online_cosmetics_store)
