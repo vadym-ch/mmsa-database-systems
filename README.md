@@ -11,6 +11,7 @@
 
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
+- 05 Dubyk Danylo, *"Fog (program store)"* [CTMBNara/FogStore](https://github.com/CTMBNara/FogStore)
 - 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/renovation](https://github.com/danylokaniev/renovation)
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 11 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
