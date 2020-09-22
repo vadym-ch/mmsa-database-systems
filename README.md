@@ -29,3 +29,4 @@
 [awesome]: https://github.com/sindresorhus/awesome
 - 15 Orlovskyi Artem, *"Massive Open Online Courses platform"* [orlovskiy-artem/mooc-platform](https://github.com/orlovskiy-artem/mooc-platform)
 - 17 Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
+- 20 Poltorak Yevheniia *"Order and delivery of materials for the factory"* [Tetravi/FactoryDatabase](https://github.com/Tetravi/FactoryDatabase)
