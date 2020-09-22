@@ -28,6 +28,7 @@
 - 8 Kondratieva Julia, *"Bookcrossing application"* [JuliaKondratieva/data-base](https://github.com/JuliaKondratieva/data-base)
 - 9 Marafiievych Mariia, *"Online cosmetics store"* [mariiamarafiievych/Online_cosmetics_store](https://github.com/mariiamarafiievych/Online_cosmetics_store)
 - 11 Moskalenko Roman, *"Hotel project"* [Smth1/hotel-project-db](https://github.com/Smth1/hotel-project-db)
+- 12 Muntian Danyil, *"Camera factory"* [DaniilMuntyan/Camera-Factory](https://github.com/DaniilMuntyan/Camera-Factory)
 - 15 Orlovskyi Artem, *"Massive Open Online Courses platform"* [orlovskiy-artem/mooc-platform](https://github.com/orlovskiy-artem/mooc-platform)
 - 17 Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
 - 20 Poltorak Yevheniia *"Order and delivery of materials for the factory"* [Tetravi/FactoryDatabase](https://github.com/Tetravi/FactoryDatabase)
