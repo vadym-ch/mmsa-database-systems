@@ -36,6 +36,7 @@
 - 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
 - 8 Kondratieva Julia, *"Bookcrossing application"* [JuliaKondratieva/data-base](https://github.com/JuliaKondratieva/data-base)
 - 9 Marafiievych Mariia, *"Online cosmetics store"* [mariiamarafiievych/Online_cosmetics_store](https://github.com/mariiamarafiievych/Online_cosmetics_store)
+- 10 Melnyk Vadym, *"Furniture store"* [Elorik/Furniture_store](https://github.com/Elorik/furniture_store)
 - 11 Moskalenko Roman, *"Hotel project"* [Smth1/hotel-project-db](https://github.com/Smth1/hotel-project-db)
 - 12 Muntian Danyil, *"Camera factory"* [DaniilMuntyan/Camera-Factory](https://github.com/DaniilMuntyan/Camera-Factory)
 - 15 Orlovskyi Artem, *"Massive Open Online Courses platform"* [orlovskiy-artem/mooc-platform](https://github.com/orlovskiy-artem/mooc-platform)
