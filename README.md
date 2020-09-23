@@ -16,14 +16,18 @@
 - 11 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
 - 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
 - 16 Maltsev Alex, *"Online realtime chat"* [And1sS/OnlineChat](https://github.com/And1sS/OnlineChat)
+- 17 Molnar Andrew, *"Car rental service"* [john-doe282/CarRent](https://github.com/john-doe282/CarRent.git)
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
 - 20 Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 - 21 Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
+- 22 Starukh Yevheniia, *"Online election"* [ZhenyaStarukh/online_election](https://github.com/ZhenyaStarukh/online_election)
 - 26 Shudra Ruslan, *"Organization of work on taxi station"* [ShudraRuslan/Taxi-station](https://github.com/ShudraRuslan/Taxi-station)
+
 
 ## KA-87 info  
 
 - 3 Darialov Andrew, *"Gym"* [DarialovAndrew/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
+- 4 Dobrynin Dmytro, *"Online parking system"* [dimdbr/Online-parking-system](https://github.com/dimdbr/Online-parking-system)
 - 6 Kadatska Oleksandra, *"Beauty salon"* [Kanada3000/beauty-salon](https://github.com/Kanada3000/beauty-salon)
 - 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
 - 8 Kondratieva Julia, *"Bookcrossing application"* [JuliaKondratieva/data-base](https://github.com/JuliaKondratieva/data-base)
