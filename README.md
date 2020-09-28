@@ -30,6 +30,7 @@
 
 ## KA-87 info  
 
+- 1 Brazhnyi Anton, *"Delivery Service"* [antonbrazhnyi/delivery_service_DB](https://github.com/antonbrazhnyi/delivery_service_DB)
 - 3 Darialov Andrew, *"Gym"* [DarialovAndrew/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
 - 4 Dobrynin Dmytro, *"Online parking system"* [dimdbr/Online-parking-system](https://github.com/dimdbr/Online-parking-system)
 - 6 Kadatska Oleksandra, *"Beauty salon"* [Kanada3000/beauty-salon](https://github.com/Kanada3000/beauty-salon)
