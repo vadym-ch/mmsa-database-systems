@@ -35,6 +35,7 @@
 - 1 Brazhnyi Anton, *"Delivery Service"* [antonbrazhnyi/delivery_service_DB](https://github.com/antonbrazhnyi/delivery_service_DB)
 - 3 Darialov Andrew, *"Gym"* [DarialovAndrew/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
 - 4 Dobrynin Dmytro, *"Online parking system"* [dimdbr/Online-parking-system](https://github.com/dimdbr/Online-parking-system)
+- 5 Zadorozhnyi Oleg, *"online-games"* [RoninKagome/online-games](https://github.com/RoninKagome/online-games)
 - 6 Kadatska Oleksandra, *"Beauty salon"* [Kanada3000/beauty-salon](https://github.com/Kanada3000/beauty-salon)
 - 7 Kapatsyn Diana, *"Online store for used clothing"* [Diana3101/Store_for_used_clothing](https://github.com/Diana3101/Store_for_used_clothing)
 - 8 Kondratieva Julia, *"Bookcrossing application"* [JuliaKondratieva/data-base](https://github.com/JuliaKondratieva/data-base)
