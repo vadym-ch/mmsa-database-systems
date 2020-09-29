@@ -42,6 +42,7 @@
 - 17 Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
 - 18 Povidzion Oleksandr, *"Online Jurisprudental help"* [PovOleksandr/JurisprudentalHelp](https://github.com/PovOleksandr/JurisprudentalHelp)
 - 20 Poltorak Yevheniia *"Order and delivery of materials for the factory"* [Tetravi/FactoryDatabase](https://github.com/Tetravi/FactoryDatabase)
+- 22 Usenko Dmytro, *"Footbals uniforms omline store"* [UsenkoDmytro/FootbalsUniformStore](https://github.com/UsenkoDmytro/FootbalsUniformStore)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome
