@@ -13,6 +13,7 @@
 
 - 05 Dubyk Danylo, *"Fog (program store)"* [CTMBNara/FogStore](https://github.com/CTMBNara/FogStore)
 - 06 Viktoriia Ivanova, *"Travel agency"* [Vikuolia/Travel_agency-DB](https://github.com/Vikuolia/Travel_agency-DB)
+- 07 Yevhenii Kaliukh, *"Online store Dogs and For Dog"* [evvhenii/DogsAndForDogs](https://github.com/evvhenii/DogsAndForDogs)
 - 08 Kaminska Diana, *"Online store of healthy food"* [dianakaminska/onlineStoreOfHealthyFood](https://github.com/dianakaminska/onlineStoreOfHealthyFood.git)
 - 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/renovation](https://github.com/danylokaniev/renovation)
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
