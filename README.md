@@ -11,6 +11,7 @@
 
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
+- 05 Dubyk Danylo, *"Fog (program store)"* [CTMBNara/FogStore](https://github.com/CTMBNara/FogStore)
 - 06 Viktoriia Ivanova, *"Travel agency"* [Vikuolia/Travel_agency-DB](https://github.com/Vikuolia/Travel_agency-DB)
 - 08 Kaminska Diana, *"Online store of healthy food"* [dianakaminska/onlineStoreOfHealthyFood](https://github.com/dianakaminska/onlineStoreOfHealthyFood.git)
 - 09 Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/renovation](https://github.com/danylokaniev/renovation)
