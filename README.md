@@ -33,6 +33,7 @@
 21. Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
 22. Starukh Yevheniia, *"Online election"* [ZhenyaStarukh/online_election](https://github.com/ZhenyaStarukh/online_election)
 24. Tsanko Anastasiya, *"Online confectionery"* [nastytsa/confectionery-shop](https://github.com/nastytsa/confectionery-shop.git)
+25. Chernovskyi Vadym, *"Online Hookah store"* [vadym-ch/Hookah-Store](https://github.com/vadym-ch/Hookah-Store)
 26. Shudra Ruslan, *"Organization of work on taxi station"* [ShudraRuslan/Taxi-station](https://github.com/ShudraRuslan/Taxi-station)
 
 ## KA-87 info  
