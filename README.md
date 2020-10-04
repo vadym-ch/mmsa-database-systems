@@ -12,6 +12,7 @@
 1 LastName FirsName, *"Title"* [GitHub](https://github.com)
 
 - 01 Oleksiy Vasilkivskiy, *"Realtor purschase sale"* [Yohjis/realtor-purchase-sale-db](https://github.com/Yohjis/realtor-purchase-sale-db)
+- 03 Nikita Grechuhov, *"Instagram managment service"* [thisIsCamelCasingRule/mmsa-database-systems](https://github.com/thisIsCamelCasingRule/mmsa-database-systems)
 - 04 Danko Myroslava, *"Clothes sharing"* [mdanko990/clothes-sharing](https://github.com/mdanko990/clothes-sharing.git)
 - 05 Dubyk Danylo, *"Fog (program store)"* [CTMBNara/FogStore](https://github.com/CTMBNara/FogStore)
 - 06 Viktoriia Ivanova, *"Travel agency"* [Vikuolia/Travel_agency-DB](https://github.com/Vikuolia/Travel_agency-DB)
