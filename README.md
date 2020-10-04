@@ -38,6 +38,7 @@
 ## KA-87 info  
 
 1. Brazhnyi Anton, *"Delivery Service"* [antonbrazhnyi/delivery_service_DB](https://github.com/antonbrazhnyi/delivery_service_DB)
+2. Gritsay Taras, *"insect farm simulation"* [tagros27/insect_farm](https://github.com/tagros27/insect_farm)
 3. Darialov Andrew, *"Gym"* [DarialovAndrew/Gym](https://github.com/DarialovAndrew/Darialov-Gym)
 4. Dobrynin Dmytro, *"Online parking system"* [dimdbr/Online-parking-system](https://github.com/dimdbr/Online-parking-system)
 5. Zadorozhnyi Oleg, *"online-games"* [RoninKagome/online-games](https://github.com/RoninKagome/online-games)
