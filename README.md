@@ -21,6 +21,8 @@
 - 10 Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
 - 11 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
 - 12 Kovalenko Tatiana, *"Travel blog"* [kovalenko/travelBlog](https://github.com/l6l9ldemonl6l9l/TravelBlog)
+- 13 Koldovska Yeva, *"Art Gallery"* [evakolds/ArtGallery-DB](https://github.com/evakolds/ArtGallery-DB)
+- 14 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
 - 14 Komaryn Yuliia, *"Swimming Pool"* [YuliiaKomaryn/DatabaseSystems-SwimmingPool](https://github.com/YuliiaKomaryn/DatabaseSystems-SwimmingPool.git) 
 - 15 Kudriev Denys, *"Port management system"* [derpyShark/port-management-system](https://github.com/derpyShark/port-management-system.git)
 - 17 Molnar Andrew, *"Car rental service"* [john-doe282/CarRent](https://github.com/john-doe282/CarRent.git)
