@@ -49,6 +49,7 @@
 10. Melnyk Vadym, *"Furniture store"* [Elorik/Furniture_store](https://github.com/Elorik/furniture_store)
 11. Moskalenko Roman, *"Hotel project"* [Smth1/hotel-project-db](https://github.com/Smth1/hotel-project-db)
 12. Muntian Danyil, *"Camera factory"* [DaniilMuntyan/Camera-Factory](https://github.com/DaniilMuntyan/Camera-Factory)
+14. Orlov Kyrylo, *"Vet clinic"* [Digberi/vet_clinic](https://github.com/Digberi/vet_clinic)
 15. Orlovskyi Artem, *"Massive Open Online Courses platform"* [orlovskiy-artem/mooc-platform](https://github.com/orlovskiy-artem/mooc-platform)
 17. Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
 18. Povidzion Oleksandr, *"Online Jurisprudental help"* [PovOleksandr/JurisprudentalHelp](https://github.com/PovOleksandr/JurisprudentalHelp)
