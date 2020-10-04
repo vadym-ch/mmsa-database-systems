@@ -52,6 +52,7 @@
 17. Pinchuk Maksym, *"Online product shop"* [mpinchuk1/dbProdShop](https://github.com/mpinchuk1/dbProdShop)
 18. Povidzion Oleksandr, *"Online Jurisprudental help"* [PovOleksandr/JurisprudentalHelp](https://github.com/PovOleksandr/JurisprudentalHelp)
 20. Poltorak Yevheniia *"Order and delivery of materials for the factory"* [Tetravi/FactoryDatabase](https://github.com/Tetravi/FactoryDatabase)
+21. Sokolova Darina, *"Vet clinic"* [darinasokolova/Vet_clinic](https://github.com/darinasokolova/Vet_clinic)
 22. Usenko Dmytro, *"Footbals uniforms omline store"* [UsenkoDmytro/FootbalsUniformStore](https://github.com/UsenkoDmytro/FootbalsUniformStore)
 25. Yusupova Rita, *"Cinema booking system"* [myfirstmolly/cinema-booking](https://github.com/myfirstmolly/cinema-booking)
 
