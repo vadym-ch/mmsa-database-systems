@@ -25,6 +25,7 @@
 - 14 Klymenko Kyryl, *"Banking Management System"* [Hoceto/BankingManagementSystem](https://github.com/Hoceto/BankingManagementSystem)
 - 14 Komaryn Yuliia, *"Swimming Pool"* [YuliiaKomaryn/DatabaseSystems-SwimmingPool](https://github.com/YuliiaKomaryn/DatabaseSystems-SwimmingPool.git) 
 - 15 Kudriev Denys, *"Port management system"* [derpyShark/port-management-system](https://github.com/derpyShark/port-management-system.git)
+- 16 Maltsev Alex, *"Online chat"* [And1sS/OnlineChat](https://github.com/And1sS/OnlineChat.git)
 - 17 Molnar Andrew, *"Car rental service"* [john-doe282/CarRent](https://github.com/john-doe282/CarRent.git)
 - 18 Ovcharenko Oleksandr, *"Organisation of the sawmill work"* [flecv/Sawnill_organisation_work](https://github.com/flecv/Sawnill_organisation_work)
 - 19 Petryna Volodymyr, *"Woodworking enterprise accounting system"* [vovapetryna/WoodProject](https://github.com/vovapetryna/WoodProject.git)
